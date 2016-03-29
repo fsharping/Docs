@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Discriminated Unions", "07-Discriminated Unions", "{03E64EF8-77C4-45CD-9D7A-12B702E21EC2}"
+	ProjectSection(SolutionItems) = preProject
+		07-DiscriminatedUnions.fsx = 07-DiscriminatedUnions.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Basic Functions", "01-Basic Functions", "{414B98B1-4313-45DD-8333-049CFD84D251}"
+	ProjectSection(SolutionItems) = preProject
+		01-BasicFunctions.fsx = 01-BasicFunctions.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Tuples", "02-Tuples", "{C41F8921-5656-409C-9A0E-8A2CE11B816A}"
+	ProjectSection(SolutionItems) = preProject
+		02-Tuples.fsx = 02-Tuples.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Lists", "03-Lists", "{815EC62D-E2B0-431A-AA04-8CB13EA54073}"
+	ProjectSection(SolutionItems) = preProject
+		03-Lists.fsx = 03-Lists.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Functions", "04-Functions", "{19DFE7FB-1776-4DC4-8DDE-88C31C9A2733}"
+	ProjectSection(SolutionItems) = preProject
+		04-Functions.fsx = 04-Functions.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Option", "05-Option", "{6BF62109-8345-4C2B-8967-9A187088E73F}"
+	ProjectSection(SolutionItems) = preProject
+		05-Option.fsx = 05-Option.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Pattern Matching", "06-Pattern Matching", "{263A5542-C931-485E-8A5F-6B7FAF18117C}"
+	ProjectSection(SolutionItems) = preProject
+		06-Pattern Matching.fsx = 06-Pattern Matching.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08-Records", "08-Records", "{1CC69BE1-E552-413C-A3AE-EE205358528E}"
+	ProjectSection(SolutionItems) = preProject
+		08-Records.fsx = 08-Records.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09-Operators", "09-Operators", "{3D444045-A9E0-4B72-8AD0-CB94212DDFAD}"
+	ProjectSection(SolutionItems) = preProject
+		09-Operators.fsx = 09-Operators.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-Partial Function Application", "10-Partial Function Application", "{F0FC98AE-04D2-4254-8E9E-6574F3EBECA6}"
+	ProjectSection(SolutionItems) = preProject
+		10-Partial Function Application.fsx = 10-Partial Function Application.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12-OOP", "12-OOP", "{2B09B319-CA9C-46DC-B47C-89704F3D1D31}"
+	ProjectSection(SolutionItems) = preProject
+		12-OOP.fsx = 12-OOP.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-Measures", "11-Measures", "{BBB0AA70-3F8D-469D-B56F-F17BDCE428B8}"
+	ProjectSection(SolutionItems) = preProject
+		11-Measures.fsx = 11-Measures.fsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
