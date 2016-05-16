@@ -1,1 +1,1 @@
-FSharping v HPE - 30. 3. 2016
+FSharping v HPE - Roman Provazník - Úvod do světa F# - 30. 3. 2016

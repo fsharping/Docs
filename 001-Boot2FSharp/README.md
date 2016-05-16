@@ -1,1 +1,1 @@
-FSharping #2 - 22. 3. 2016
+FSharping #2 - Roman Provazník - Úvod do světa F# - 22. 3. 2016

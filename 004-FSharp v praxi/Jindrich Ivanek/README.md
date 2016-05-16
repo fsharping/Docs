@@ -1,0 +1,1 @@
+Slidy jsou na [https://jindraivanek.gitlab.io/fsharping-interop](https://jindraivanek.gitlab.io/fsharping-interop)

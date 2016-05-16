@@ -1,0 +1,1 @@
+FSharping #3 - Jindřich Ivánek, David Podhola - F# v praxi - 10. 5. 2016
