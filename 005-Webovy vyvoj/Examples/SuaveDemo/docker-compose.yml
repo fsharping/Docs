@@ -1,0 +1,5 @@
+web:
+  build: .
+  container_name: suaveio
+  ports:
+    - "1234:8083"

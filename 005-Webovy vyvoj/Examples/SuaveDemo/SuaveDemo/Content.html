@@ -1,0 +1,9 @@
+﻿<div style="color: green">
+    Já jsem content pro město @Model.City v zemi @Model.Country
+
+    <ul>
+        @for(var i=1; i < Model.Districts; i++) {
+            <li>@Model.City @i</li>
+        }
+    </ul>
+</div>

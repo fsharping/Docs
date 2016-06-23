@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuaveDemo", "SuaveDemo\SuaveDemo.fsproj", "{A76E2B65-391C-41E8-85E9-36B76D3A871D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{B46DB3B3-EA63-4493-94AC-C19B7742CA78}"
+	ProjectSection(SolutionItems) = preProject
+		01 - Hello World.fs = 01 - Hello World.fs
+		02 - Custom configuration.fs = 02 - Custom configuration.fs
+		03 - Basic webpart composition.fs = 03 - Basic webpart composition.fs
+		04 - Filter by path.fs = 04 - Filter by path.fs
+		05 - Advanced filtering.fs = 05 - Advanced filtering.fs
+		06 - Path scan and regex.fs = 06 - Path scan and regex.fs
+		07 - Warbler.fs = 07 - Warbler.fs
+		08 - Serve files and mime types.fs = 08 - Serve files and mime types.fs
+		09 - HTML with DSL.fs = 09 - HTML with DSL.fs
+		10 - Shaver basics.fs = 10 - Shaver basics.fs
+		11 - Shaver advanced.fs = 11 - Shaver advanced.fs
+		docker-compose.yml = docker-compose.yml
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76E2B65-391C-41E8-85E9-36B76D3A871D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76E2B65-391C-41E8-85E9-36B76D3A871D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76E2B65-391C-41E8-85E9-36B76D3A871D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76E2B65-391C-41E8-85E9-36B76D3A871D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
