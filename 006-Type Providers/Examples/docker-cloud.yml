@@ -1,0 +1,15 @@
+lb:
+  image: dockercloud/haproxy
+  links:
+    - web
+  ports:
+    - "80:80"
+  roles:
+    - global
+web:
+  image: fsharp
+  links:
+    - redis
+  target_num_containers: 4
+redis:
+  image: redis

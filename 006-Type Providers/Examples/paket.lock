@@ -1,0 +1,10 @@
+NUGET
+  remote: http://www.nuget.org/api/v2
+    FAKE (4.52)
+    FSharp.Charting (0.90.14)
+    FSharp.Configuration (0.6.4)
+    FSharp.Data (2.3.2)
+      Zlib.Portable (>= 1.11) - framework: >= netstandard11, portable-net45+sl5+win8, portable-net45+win8, portable-net45+win8+wp8+wpa81
+    FSharp.Data.SqlClient (1.8.2)
+    SQLProvider (1.0.43)
+    Zlib.Portable (1.11) - framework: >= netstandard11, portable-net45+sl5+win8, portable-net45+win8, portable-net45+win8+wp8+wpa81

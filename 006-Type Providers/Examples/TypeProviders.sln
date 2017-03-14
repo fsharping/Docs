@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B2A9574-5A65-4E32-ABE5-F250BB639E8E}"
+	ProjectSection(SolutionItems) = preProject
+		01-Json.fsx = 01-Json.fsx
+		02-Csv.fsx = 02-Csv.fsx
+		03-Xml.fsx = 03-Xml.fsx
+		04-Html.fsx = 04-Html.fsx
+		05-WorldData.fsx = 05-WorldData.fsx
+		06-Configuration.fsx = 06-Configuration.fsx
+		07-Sql.fsx = 07-Sql.fsx
+		08-SqlClient.fsx = 08-SqlClient.fsx
+		app.config = app.config
+		docker-cloud.yml = docker-cloud.yml
+		GetFilteredUsers.sql = GetFilteredUsers.sql
+		GetUsers.sql = GetUsers.sql
+		GithubUser.json = GithubUser.json
+		GithubUsers.json = GithubUsers.json
+		MyResource.resx = MyResource.resx
+		Notes.xml = Notes.xml
+		paket.dependencies = paket.dependencies
+		Users.csv = Users.csv
+		UsersNoHeader.csv = UsersNoHeader.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
